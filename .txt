@@ -1,0 +1,11 @@
+//for admin
+cd admin
+npm run dev
+
+//for user
+cd user
+npm run dev
+
+//for backend
+cd backend/backend
+npm start
